@@ -2,7 +2,7 @@
 Remake der Website drogenlied.de.vu aus dem Jahr 2002.
 
 ## Demo
-[Eine Demo gibt es hier.](http://drogenlied.timo.in)
+[Eine Demo gibt es hier.](https://drogenlied.timo.in)
 
 ## Screenshot
 ![Screenshot](screenshot.png)
